@@ -157,4 +157,6 @@ Run the following command to execute the Go program:
 
 By following these steps, you can effectively manage and categorize your YouTube "Watch Later" playlist videos.
 
+## Extras 
 
+When you run the code in the directory you will have a new `categorized_videos.json` file which will have all of the videos listed... If you have only added the scrape.json and have not done the OAuth steps then at least you could see a level of sorting. 

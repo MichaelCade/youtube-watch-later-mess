@@ -22,7 +22,7 @@ I have created my own catagories based on my topics and videos but yours will li
 
 This guide explains how to extract video metadata from your YouTube "Watch Later" playlist using Chrome DevTools. The data is saved in JSON format and can be used to manage and categorize videos more effectively.
 
-[![](https://youtu.be/csLvKRO5z3E)](https://youtu.be/csLvKRO5z3E})
+[![YouTube Video](https://img.youtube.com/vi/csLvKRO5z3E/0.jpg)](https://youtu.be/csLvKRO5z3E)
 
 ---
 
